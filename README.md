@@ -6,4 +6,4 @@ course link : https://www.coursera.org/learn/html-css-javascript-for-web-develop
 Week #2 Coding Assignment Solution
 ------------------------------------------------------------
 Description   : https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md
-Solution Link :
+Solution Link : https://aman-kaushikk.github.io/coursera-test/module2_solution/
