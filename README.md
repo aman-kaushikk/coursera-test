@@ -13,3 +13,10 @@ Week #3 Coding Assignment Solution
 -------------------------------------------------------------
 description  : https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment3/Assignment-3.md
 Solution link: https://aman-kaushikk.github.io/coursera-test/module3_solution/
+
+
+Week #4 Coding Assignment Solution
+
+--------------------------------------------------------------
+description  : https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment4/Assignment-4.md
+solution link :https://aman-kaushikk.github.io/coursera-test/module4_solution/index.html
