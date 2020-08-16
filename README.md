@@ -26,6 +26,6 @@ solution link :https://aman-kaushikk.github.io/coursera-test/module4_solution/in
 Week #5 Coding Assignment Solution
 
 ------------------------------------------------------------------
-solution link :  
+solution link :  https://aman-kaushikk.github.io/coursera-test/module5-solution/index.html
 
 description link: https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment5/Assignment-5.md
