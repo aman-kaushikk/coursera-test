@@ -19,8 +19,7 @@ Week #4 Coding Assignment Solution
 
 --------------------------------------------------------------
 description  : https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment4/Assignment-4.md
-solution link :https://aman-kaushikk.github.io/coursera-test/module4_solution/index.html
-
+solution link :https://aman-kaushikk.github.io/coursera-test/module-4-solution/index.html
 
 
 Week #5 Coding Assignment Solution
